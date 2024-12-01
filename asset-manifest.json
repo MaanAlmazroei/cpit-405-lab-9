@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cpit-405-lab-9/static/css/main.558008b1.css",
+    "main.js": "/cpit-405-lab-9/static/js/main.512dcfe7.js",
+    "static/js/453.8698588c.chunk.js": "/cpit-405-lab-9/static/js/453.8698588c.chunk.js",
+    "index.html": "/cpit-405-lab-9/index.html",
+    "main.558008b1.css.map": "/cpit-405-lab-9/static/css/main.558008b1.css.map",
+    "main.512dcfe7.js.map": "/cpit-405-lab-9/static/js/main.512dcfe7.js.map",
+    "453.8698588c.chunk.js.map": "/cpit-405-lab-9/static/js/453.8698588c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.558008b1.css",
+    "static/js/main.512dcfe7.js"
+  ]
+}
